@@ -100,4 +100,8 @@ color: white;
                             font-size: 100%;
                             text-decoration: none;
                         }
+nav a:hover{
+    color: white;
+    text-decoration: undeerline
+}
                     
